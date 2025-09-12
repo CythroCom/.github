@@ -17,8 +17,7 @@ To build innovative tools and projects that empower developers and creators worl
 ---
 
 ## 🚀 Featured Projects
-- [Project One](https://github.com/Cythro/project-one) – Short description of the project.  
-- [Project Two](https://github.com/Cythro/project-two) – Another amazing project.  
+- [CythroDash v1 - Beta](https://github.com/CythroCom/CythroDash) – An Advanced, Next-Generation Dashboard for the Pterodactyl Panel
 
 
 
